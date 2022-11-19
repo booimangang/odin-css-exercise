@@ -1,0 +1,17 @@
+.odd {
+  background-color: pink;
+}
+
+#num2 {
+  color: blue;
+  font-size: 45px;
+}
+
+#num4 {
+  background-color: green;
+  font-weight: bold;
+}
+
+.font-size {
+  font-size: 34px;
+}
